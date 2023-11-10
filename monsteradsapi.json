@@ -1,6 +1,5 @@
 {
   "AdNetworks": {
-    "theselectednetwork": "Admob"
     "Admob": {
       "Banner": "ca-app-pub-3993845379196468/5675928159",
       "Inter": "ca-app-pub-3993845379196468/7343382984",
@@ -11,5 +10,6 @@
       "Inter": "61d7806599d37e9b",
       "Reward": "fa09ba5804140e7d"
     },
+    "theselectednetwork": "Admob"
   }
 }
