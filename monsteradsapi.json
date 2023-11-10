@@ -1,0 +1,15 @@
+{
+  "AdNetworks": {
+    "Admob": {
+      "Banner": "ca-app-pub-3993845379196468/5675928159",
+      "Inter": "ca-app-pub-3993845379196468/7343382984",
+      "Reward": "ca-app-pub-3993845379196468/3892977157"
+    },
+    "Applovin": {
+      "Banner": "6a1f181e547e842b",
+      "Inter": "61d7806599d37e9b",
+      "Reward": "fa09ba5804140e7d"
+    },
+    "theselectednetwork": "Admob"
+  }
+}
